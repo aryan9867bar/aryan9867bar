@@ -144,6 +144,8 @@
 - **Email**: [aryan123web@gmail.com](mailto:aryan123web@gmail.com)
 - **Portfolio**: [aryanbaranwal.com.np](https://aryanbaranwal.com.np)
 
+---
+
 ###
 
 <p align="center">
@@ -152,6 +154,11 @@
 
 ###
 ---
-✨ **Feel free to reach out for any collaboration or discussions!**
+<div align="center">
+
+✨ **Feel free to reach out for any collaboration or discussions!** ✨
+
+</div>
+
 
 
