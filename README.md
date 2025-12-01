@@ -136,6 +136,16 @@
 
 ###
 
+---
+
+## Contact Information
+
+- **LinkedIn**: [linkedin.com/in/aryanbaranwal](https://www.linkedin.com/in/aryanbaranwal/)
+- **Email**: [aryan123web@gmail.com](mailto:aryan123web@gmail.com)
+- **Portfolio**: [aryanbaranwal.com.np](https://aryanbaranwal.com.np)
+
+###
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=150&section=footer"/>
 </p>
