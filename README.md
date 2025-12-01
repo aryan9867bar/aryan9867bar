@@ -31,12 +31,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <h1 align="center">Hi there 👋, Welcome to my Github page!</h1>
 
 ###
@@ -103,9 +97,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://in.pinterest.com/pin/42995371460484808/"  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=150&section=footer"/>
+</p>
 
 ###
 
