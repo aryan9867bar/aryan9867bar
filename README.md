@@ -91,7 +91,7 @@
 
 ###
 <!-- Snake Contribution Graph -->
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/snake.svg" />
 
 ###
 <!-- Most Used Languages + Skill Icons -->
