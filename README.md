@@ -85,17 +85,6 @@
   <img src="https://streak-stats.demolab.com?user=aryan9867bar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<!-- ###
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; width: 50%;">
-      <img src="https://streak-stats.demolab.com?user=aryan9867bar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-    </td>
-    <td style="border: none; width: 50%;">
-      <img src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/main/programmer.jpg" height="400" alt="Profile Visual">
-    </td>
-  </tr>
-</table> -->
 
 ###
 
@@ -146,5 +135,7 @@
 </p>
 
 ###
+
+✨ **Feel free to reach out for any collaboration or discussions!**
 
 
