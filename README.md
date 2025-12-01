@@ -87,7 +87,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/github-contribution-grid-snake.svg" />
 
 ###
 
