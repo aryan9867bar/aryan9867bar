@@ -17,8 +17,8 @@
   </a>
 </div>
 
-###
-![Cool Animation](https://github.com/aryan9867bar/aryan9867bar/raw/main/f9b88deeae101d6a8572063bb63c286e.gif)
+<!-- ###
+![Cool Animation](https://github.com/aryan9867bar/aryan9867bar/raw/main/f9b88deeae101d6a8572063bb63c286e.gif) -->
 
 ###
 
