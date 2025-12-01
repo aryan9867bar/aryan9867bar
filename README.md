@@ -89,7 +89,7 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=aryan9867bar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rishi's Stats" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=aryan9867bar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Aryan's Stats" width="100%">
       <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan9867bar&theme=tokyonight&hide_border=true" alt="Aryan's Streak" width="100%" style="margin-top: 10px;">
     </td>
