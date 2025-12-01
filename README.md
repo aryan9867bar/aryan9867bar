@@ -1,9 +1,9 @@
-<!-- ###
-![Cool Animation](https://github.com/aryan9867bar/aryan9867bar/raw/main/f9b88deeae101d6a8572063bb63c286e.gif) -->
+###
+![Cool Animation](https://github.com/aryan9867bar/aryan9867bar/raw/main/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -27,43 +27,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aryan9867bar.aryan9867bar&"  />
-</div> -->
-
-
-<!-- Container for left + right alignment -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-
-  <!-- LEFT SIDE (Socials + Visitor Badge) -->
-  <div>
-    <!-- Social Links -->
-    <div>
-      <a href="https://www.linkedin.com/in/aryanbaranwal/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-      </a>
-
-      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-
-      <a href="https://x.com/_aryanbaranwal" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-      </a>
-
-      <a href="mailto:aryan123web@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-      </a>
-    </div>
-
-    <!-- Visitor Badge -->
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=aryan9867bar.aryan9867bar" />
-  </div>
-
-  <!-- RIGHT SIDE (GIF) -->
-  <div>
-    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  </div>
-
 </div>
-
 
 ###
 
