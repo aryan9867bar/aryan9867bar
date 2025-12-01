@@ -90,6 +90,10 @@
 <img src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/snake.svg" alt="Snake animation" />
 
 ###
+<!-- Snake Contribution Graph -->
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/github-contribution-grid-snake.svg" />
+
+###
 <!-- Most Used Languages + Skill Icons -->
 <div align="center">
   <table width="100%">
