@@ -1,4 +1,10 @@
 ###
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=200&section=header&text=ARYAN%20BARANWAL&fontSize=50&fontAlign=center&fontColor=ffffff&animation=twinkling" alt="header"/>
+</p>
+
+###
 ![Cool Animation](https://github.com/aryan9867bar/aryan9867bar/raw/main/9070324cdfc07c68d60eed0c39e77573.gif)
 
 ###
@@ -28,12 +34,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aryan9867bar.aryan9867bar&"  />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=200&section=header&text=ARYAN%20BARANWAL&fontSize=50&fontAlign=center&fontColor=ffffff&animation=twinkling" alt="header"/>
-</p>
 
 ###
 
