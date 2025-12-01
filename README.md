@@ -90,6 +90,12 @@
 <img src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/snake.svg" alt="Snake animation" />
 
 
+##
+
+<a href="https://github.com/aryan9867bar">
+  <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=aryan9867bar&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
+</a>
+
 ###
 
 [![An image of @aryan9867bar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan9867bar)](https://www.holopin.io/@aryan9867bar#)
