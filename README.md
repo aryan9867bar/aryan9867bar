@@ -52,7 +52,7 @@
 <h3 align="left">🛠 Technical Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,django,nodejs,aws,gcp,docker,kubernetes,git,github,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,sql,react,nextjs,django,nodejs,aws,gcp,docker,kubernetes,git,github,linux,figma" />
 </p>
 
 | Domain               | Technologies                                        |
