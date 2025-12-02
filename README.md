@@ -69,6 +69,20 @@
 ---
 
 ###
+## Selected Projects
+
+| Project                                | Tech Stack                          | Overview                                                                    |
+|----------------------------------------|-------------------------------------|-----------------------------------------------------------------------------|
+| **Smart Prescription System**         | Django, React Native, AWS IoT       | Voice and image-based prescription recognition integrated with a smart dispenser. |
+| **Telemedicine Web Application**      | Next.js, Node.js, Firebase          | Scalable teleconsultation platform supporting multi-doctor collaboration.   |
+| **ETL Pipeline with Data Fusion, Airflow, and BigQuery**       | Python, Google Cloud Data Fusion, BigQuery, Airflow            | End-to-end ETL pipeline for sales data with data masking, automated orchestration, and dashboard visualization using Looker Studio.    |
+| **Real-Time IoT Data Processing and Anomaly Detection**      | ESP32, MQ135, Google Apps Script, BigQuery ML, Looker    | Real-time IoT pipeline for air quality monitoring with anomaly detection using BigQuery ML's ARIMA_PLUS model and live dashboards. |
+
+> _For a comprehensive list of projects, visit [my repositories](https://github.com/sachinsingh2156?tab=repositories)._
+
+---
+
+###
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanbaranwal/)
