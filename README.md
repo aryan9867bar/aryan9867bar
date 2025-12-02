@@ -48,8 +48,26 @@
 <p align="left">I am a detail-oriented problem solver who enjoys working collaboratively with others to achieve project goals. I am committed to staying up-to-date with the latest technologies and best practices in the industry, and I am constantly seeking new challenges to expand my skill set.<br><br>- 🎓 M.Tech CSE | IIT Jodhpur</p>
 
 ###
+---
+<h3 align="left">🛠 Technical Skills</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,django,nodejs,aws,gcp,docker,kubernetes,git,github,linux,figma" />
+</p>
+
+| Domain               | Technologies                                        |
+| -------------------- | -------------------------------------------------- |
+| **Programming**       | Core Java, Python, JavaScript, SQL                    |
+| **Frontend**          | ReactJS, AngularJS, Next.js, HTML, CSS, Bootstrap, MaterialUI, TailwindCSS |
+| **Backend**           | Node.js (Express.js), Django, REST APIs             |
+| **Databases**          | MongoDB, PostgreSQL             |
+| **Cloud & DevOps**     | AWS, GCP, Docker, Kubernetes, CI/CD, Terraform      |
+| **Machine Learning**  | Machine Learning, Deep Learning, NLP                |
+| **Tools and Platforms**| Git, GitHub, Linux, Figma, Postman, Firebase, VS Code, Sublime, Eclipse, Intellij Idea |
+| **Digital Marketing**   | WordPress, SEO, Google Analytics, Google Ads, Google Search Console    |
+
+---
+
 
 ###
 
@@ -167,6 +185,5 @@
 ✨ **Feel free to reach out for any collaboration or discussions!** ✨
 
 </div>
-
 
 
