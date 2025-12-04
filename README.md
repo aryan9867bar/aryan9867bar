@@ -110,34 +110,6 @@
 <img src="https://raw.githubusercontent.com/aryan9867bar/aryan9867bar/output/snake.svg" alt="Snake animation" />
 
 ###
-<!-- Most Used Languages + Skill Icons -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan9867bar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" height="270" alt="Top Languages">
-      </td>
-      <td width="40%" align="center" valign="top">
-        <table>
-          <tr>
-            <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
-          </tr>
-          <tr>
-            <td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
-            <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
 <!-- Activity Graph -->
 <a href="https://github.com/aryan9867bar">
   <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=aryan9867bar&bg_color=1A1B27&color=BF91F3&line=38BDAE&point=70A5FD&area_color=BF91F3&border_radius=22.5&title_color=70A5FD" />
